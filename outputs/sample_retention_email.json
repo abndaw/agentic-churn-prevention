@@ -1,0 +1,55 @@
+{
+  "churn_probability": 0.8567325027045493,
+  "action": {
+    "risk": "Medium",
+    "contact": true
+  },
+  "segment": {
+    "name": "High Risk",
+    "tone": "energetic_tech"
+  },
+  "risk_factors": [
+    {
+      "feature": "Contract",
+      "shap": 0.710810989420604
+    },
+    {
+      "feature": "tenure",
+      "shap": 0.3997053989088053
+    },
+    {
+      "feature": "InternetService_Fiber optic",
+      "shap": 0.29932139217523196
+    },
+    {
+      "feature": "PaymentMethod_Electronic check",
+      "shap": 0.2799144307362276
+    },
+    {
+      "feature": "MonthlyCharges",
+      "shap": 0.24119346177649637
+    }
+  ],
+  "offers": [
+    {
+      "name": "1-Year Rate Lock",
+      "benefit": "Freeze your monthly price and avoid future increases",
+      "discount": "$5/month off"
+    },
+    {
+      "name": "New Customer Loyalty Bonus",
+      "benefit": "Lock in savings as a thank you for joining us",
+      "discount": "$10/month off for 12 months"
+    },
+    {
+      "name": "Auto-Pay Discount",
+      "benefit": "Never miss a payment and save every month automatically",
+      "discount": "$5/month ongoing"
+    }
+  ],
+  "email": {
+    "subject": "Special offers just for you",
+    "body": "Hi there,\n\nThanks for being with us for 10 months. We wanted to share a few ways to improve your experience and save money.\n\n\u2022 1-Year Rate Lock: Freeze your monthly price and avoid future increases - $5/month off\n\u2022 New Customer Loyalty Bonus: Lock in savings as a thank you for joining us - $10/month off for 12 months\n\u2022 Auto-Pay Discount: Never miss a payment and save every month automatically - $5/month ongoing\n\nIf you'd like to learn more, just reply to this email or give us a call.\n\nBest regards,\nCustomer Success Team"
+  },
+  "contacted": true
+}

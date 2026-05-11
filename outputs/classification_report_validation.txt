@@ -1,0 +1,11 @@
+Winning Model: LightGBM
+Validation AUC: 0.8415
+
+              precision    recall  f1-score   support
+
+      Stayed       0.91      0.71      0.80      1035
+     Churned       0.50      0.81      0.62       374
+
+    accuracy                           0.74      1409
+   macro avg       0.71      0.76      0.71      1409
+weighted avg       0.80      0.74      0.75      1409
