@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+src/catboost_info/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
