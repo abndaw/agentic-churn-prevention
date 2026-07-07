@@ -208,7 +208,6 @@ The repository includes an interactive Streamlit application.
 
 ## Screenshots
 
-```markdown
 ![Customer Analysis](assets/customer_analysis.png)
 
 The dashboard displays the predicted churn probability, customer risk level, actual churn status, and the top SHAP features driving the prediction.
@@ -228,7 +227,6 @@ Based on the customer's SHAP explanations, the agent recommends tailored retenti
 ![Generated Email](assets/personalized_email.png)
 
 Using the selected offers and customer profile, Gemini generates a personalized retention email ready for deployment.
-```
 
 ---
 
