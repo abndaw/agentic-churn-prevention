@@ -1,0 +1,25 @@
+{
+  "policy": {
+    "profit": 15403.441599999998,
+    "threshold_high": 0.9000000000000004,
+    "threshold_medium": 0.3
+  },
+  "baseline": {
+    "profit": 10598.225600000002,
+    "total_cost": 7045.0,
+    "total_benefit": 17643.2256,
+    "coverage": 1.0
+  },
+  "ml": {
+    "profit": 15508.985600000002,
+    "total_cost": 8367.999999999998,
+    "total_benefit": 23876.9856,
+    "coverage": 0.5592618878637331
+  },
+  "llm": {
+    "profit": 17466.9824,
+    "total_cost": 11716.0,
+    "total_benefit": 29182.9824,
+    "coverage": 0.5592618878637331
+  }
+}

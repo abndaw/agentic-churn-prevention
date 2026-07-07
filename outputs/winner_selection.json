@@ -1,0 +1,7 @@
+{
+  "winner_model": "LightGBM",
+  "validation_auc": 0.8415484770983492,
+  "selection_criterion": "val_auc_roc",
+  "cv_best_from_tuning": "CatBoost",
+  "cv_auc_from_tuning": 0.8523394113107295
+}
